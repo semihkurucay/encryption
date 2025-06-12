@@ -28,8 +28,8 @@ public class Encrypt {
                 "&<#", "r3|", "_%X", "JcQ", "L!]", "{\\7"
         };
     
-    private int firstRandomNum = 0;//7
-    private int lastRandomNum = 0;//4
+    private int firstRandomNum = 0;
+    private int lastRandomNum = 0;
     
     public int getFirstRandomNum(){
         return firstRandomNum;
